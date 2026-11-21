@@ -54,4 +54,3 @@ Subject: Software Engineering
 Project Type: Mini Project  
 Language: Python
 
-This project is an academic prototype and is not intended for handling real sensitive complaints.
